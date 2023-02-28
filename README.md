@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web-development
-
+- tech-stack: 
+- HTML, CSS, JavaScript, React
 - 📫 How to reach me :
 - Mail : alexKinkriashvili@gmail.com
+
 
 
 <!---
